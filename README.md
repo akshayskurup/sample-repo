@@ -6,3 +6,5 @@ i'm fine
 
 
 how old are yoou?
+
+i'm 18
